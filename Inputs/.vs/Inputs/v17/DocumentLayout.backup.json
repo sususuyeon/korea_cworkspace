@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\Inputs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A01C7383-C3BC-4D7E-A5B7-6CEFD6EF3344}|Inputs\\Inputs.vcxproj|C:\\cworks\\Inputs\\Inputs\\InputEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A01C7383-C3BC-4D7E-A5B7-6CEFD6EF3344}|Inputs\\Inputs.vcxproj|solutionrelative:Inputs\\InputEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InputEx1.c",
+              "DocumentMoniker": "C:\\cworks\\Inputs\\Inputs\\InputEx1.c",
+              "RelativeDocumentMoniker": "Inputs\\InputEx1.c",
+              "ToolTip": "C:\\cworks\\Inputs\\Inputs\\InputEx1.c*",
+              "RelativeToolTip": "Inputs\\InputEx1.c*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-17T11:41:05.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

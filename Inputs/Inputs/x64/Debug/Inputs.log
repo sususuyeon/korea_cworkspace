@@ -1,0 +1,8 @@
+﻿  InputEx1.c
+C:\cworks\Inputs\Inputs\InputEx1.c(18,2): warning C4013: 'scanf_S'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\cworks\Inputs\Inputs\InputEx1.c(21,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\cworks\Inputs\Inputs\InputEx1.c(21,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\cworks\Inputs\Inputs\InputEx1.c(24,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'float *'입니다.
+C:\cworks\Inputs\Inputs\InputEx1.c(24,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) float *' 형식의 인수 1과(와) 충돌합니다.
+InputEx1.obj : error LNK2019: scanf_Smain 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\cworks\Inputs\x64\Debug\Inputs.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
