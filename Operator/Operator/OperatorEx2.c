@@ -8,6 +8,7 @@
 //	*/
 //	int a = 5, b = 3, c = 2;
 //
+//	//비교연산
 //	printf("a > b = %d\n", a > b); //1
 //	printf("a < b = %d\n", a < b); //0
 //	printf("(a == b) = % d\n", a == b);//0
