@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CSY\\source\\repos\\classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{712630FD-9F44-4D80-92D4-32C5559C9042}|classes\\classes.vcxproj|C:\\Users\\CSY\\source\\repos\\classes\\classes\\newDeleteEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{712630FD-9F44-4D80-92D4-32C5559C9042}|classes\\classes.vcxproj|solutionrelative:classes\\newDeleteEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712630FD-9F44-4D80-92D4-32C5559C9042}|classes\\classes.vcxproj|C:\\Users\\CSY\\source\\repos\\classes\\classes\\newDeleteEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{712630FD-9F44-4D80-92D4-32C5559C9042}|classes\\classes.vcxproj|solutionrelative:classes\\newDeleteEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712630FD-9F44-4D80-92D4-32C5559C9042}|classes\\classes.vcxproj|C:\\Users\\CSY\\source\\repos\\classes\\classes\\classMath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{712630FD-9F44-4D80-92D4-32C5559C9042}|classes\\classes.vcxproj|solutionrelative:classes\\classMath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712630FD-9F44-4D80-92D4-32C5559C9042}|classes\\classes.vcxproj|C:\\Users\\CSY\\source\\repos\\classes\\classes\\cardArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{712630FD-9F44-4D80-92D4-32C5559C9042}|classes\\classes.vcxproj|solutionrelative:classes\\cardArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712630FD-9F44-4D80-92D4-32C5559C9042}|classes\\classes.vcxproj|C:\\Users\\CSY\\source\\repos\\classes\\classes\\classCard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{712630FD-9F44-4D80-92D4-32C5559C9042}|classes\\classes.vcxproj|solutionrelative:classes\\classCard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "newDeleteEx2.cpp",
+              "DocumentMoniker": "C:\\Users\\CSY\\source\\repos\\classes\\classes\\newDeleteEx2.cpp",
+              "RelativeDocumentMoniker": "classes\\newDeleteEx2.cpp",
+              "ToolTip": "C:\\Users\\CSY\\source\\repos\\classes\\classes\\newDeleteEx2.cpp",
+              "RelativeToolTip": "classes\\newDeleteEx2.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-24T12:34:00.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "newDeleteEx.cpp",
+              "DocumentMoniker": "C:\\Users\\CSY\\source\\repos\\classes\\classes\\newDeleteEx.cpp",
+              "RelativeDocumentMoniker": "classes\\newDeleteEx.cpp",
+              "ToolTip": "C:\\Users\\CSY\\source\\repos\\classes\\classes\\newDeleteEx.cpp",
+              "RelativeToolTip": "classes\\newDeleteEx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-24T12:22:02.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "classMath.cpp",
+              "DocumentMoniker": "C:\\Users\\CSY\\source\\repos\\classes\\classes\\classMath.cpp",
+              "RelativeDocumentMoniker": "classes\\classMath.cpp",
+              "ToolTip": "C:\\Users\\CSY\\source\\repos\\classes\\classes\\classMath.cpp",
+              "RelativeToolTip": "classes\\classMath.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-24T12:05:25.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cardArray.cpp",
+              "DocumentMoniker": "C:\\Users\\CSY\\source\\repos\\classes\\classes\\cardArray.cpp",
+              "RelativeDocumentMoniker": "classes\\cardArray.cpp",
+              "ToolTip": "C:\\Users\\CSY\\source\\repos\\classes\\classes\\cardArray.cpp",
+              "RelativeToolTip": "classes\\cardArray.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-24T11:33:44.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "classCard.cpp",
+              "DocumentMoniker": "C:\\Users\\CSY\\source\\repos\\classes\\classes\\classCard.cpp",
+              "RelativeDocumentMoniker": "classes\\classCard.cpp",
+              "ToolTip": "C:\\Users\\CSY\\source\\repos\\classes\\classes\\classCard.cpp",
+              "RelativeToolTip": "classes\\classCard.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-24T11:17:17.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

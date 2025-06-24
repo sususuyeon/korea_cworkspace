@@ -1,0 +1,2 @@
+﻿  pointer1.cpp
+C:\Users\CSY\source\repos\pointers\pointers\pointer1.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'iosteam': No such file or directory
