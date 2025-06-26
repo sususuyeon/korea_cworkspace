@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\korea_cworkspace\\classes2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03AC9031-0850-49E7-915A-A739AF7E7657}|classes2\\classes2.vcxproj|C:\\korea_cworkspace\\classes2\\classes2\\bankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03AC9031-0850-49E7-915A-A739AF7E7657}|classes2\\classes2.vcxproj|solutionrelative:classes2\\bankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AC9031-0850-49E7-915A-A739AF7E7657}|classes2\\classes2.vcxproj|C:\\korea_cworkspace\\classes2\\classes2\\vectorEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03AC9031-0850-49E7-915A-A739AF7E7657}|classes2\\classes2.vcxproj|solutionrelative:classes2\\vectorEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AC9031-0850-49E7-915A-A739AF7E7657}|classes2\\classes2.vcxproj|C:\\korea_cworkspace\\classes2\\classes2\\vectorEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03AC9031-0850-49E7-915A-A739AF7E7657}|classes2\\classes2.vcxproj|solutionrelative:classes2\\vectorEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AC9031-0850-49E7-915A-A739AF7E7657}|classes2\\classes2.vcxproj|C:\\korea_cworkspace\\classes2\\classes2\\enumMedal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03AC9031-0850-49E7-915A-A739AF7E7657}|classes2\\classes2.vcxproj|solutionrelative:classes2\\enumMedal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AC9031-0850-49E7-915A-A739AF7E7657}|classes2\\classes2.vcxproj|C:\\korea_cworkspace\\classes2\\classes2\\enumvalue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03AC9031-0850-49E7-915A-A739AF7E7657}|classes2\\classes2.vcxproj|solutionrelative:classes2\\enumvalue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AC9031-0850-49E7-915A-A739AF7E7657}|classes2\\classes2.vcxproj|C:\\korea_cworkspace\\classes2\\classes2\\structPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03AC9031-0850-49E7-915A-A739AF7E7657}|classes2\\classes2.vcxproj|solutionrelative:classes2\\structPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AC9031-0850-49E7-915A-A739AF7E7657}|classes2\\classes2.vcxproj|C:\\korea_cworkspace\\classes2\\classes2\\structstudent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03AC9031-0850-49E7-915A-A739AF7E7657}|classes2\\classes2.vcxproj|solutionrelative:classes2\\structstudent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bankAccount.cpp",
+              "DocumentMoniker": "C:\\korea_cworkspace\\classes2\\classes2\\bankAccount.cpp",
+              "RelativeDocumentMoniker": "classes2\\bankAccount.cpp",
+              "ToolTip": "C:\\korea_cworkspace\\classes2\\classes2\\bankAccount.cpp*",
+              "RelativeToolTip": "classes2\\bankAccount.cpp*",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T12:00:35.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vectorEx2.cpp",
+              "DocumentMoniker": "C:\\korea_cworkspace\\classes2\\classes2\\vectorEx2.cpp",
+              "RelativeDocumentMoniker": "classes2\\vectorEx2.cpp",
+              "ToolTip": "C:\\korea_cworkspace\\classes2\\classes2\\vectorEx2.cpp",
+              "RelativeToolTip": "classes2\\vectorEx2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T11:39:03.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vectorEx1.cpp",
+              "DocumentMoniker": "C:\\korea_cworkspace\\classes2\\classes2\\vectorEx1.cpp",
+              "RelativeDocumentMoniker": "classes2\\vectorEx1.cpp",
+              "ToolTip": "C:\\korea_cworkspace\\classes2\\classes2\\vectorEx1.cpp",
+              "RelativeToolTip": "classes2\\vectorEx1.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwB4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T11:30:33.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "enumMedal.cpp",
+              "DocumentMoniker": "C:\\korea_cworkspace\\classes2\\classes2\\enumMedal.cpp",
+              "RelativeDocumentMoniker": "classes2\\enumMedal.cpp",
+              "ToolTip": "C:\\korea_cworkspace\\classes2\\classes2\\enumMedal.cpp",
+              "RelativeToolTip": "classes2\\enumMedal.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T11:14:46.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "enumvalue.cpp",
+              "DocumentMoniker": "C:\\korea_cworkspace\\classes2\\classes2\\enumvalue.cpp",
+              "RelativeDocumentMoniker": "classes2\\enumvalue.cpp",
+              "ToolTip": "C:\\korea_cworkspace\\classes2\\classes2\\enumvalue.cpp",
+              "RelativeToolTip": "classes2\\enumvalue.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T11:02:46.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "structPoint.cpp",
+              "DocumentMoniker": "C:\\korea_cworkspace\\classes2\\classes2\\structPoint.cpp",
+              "RelativeDocumentMoniker": "classes2\\structPoint.cpp",
+              "ToolTip": "C:\\korea_cworkspace\\classes2\\classes2\\structPoint.cpp",
+              "RelativeToolTip": "classes2\\structPoint.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T10:34:23.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "structstudent.cpp",
+              "DocumentMoniker": "C:\\korea_cworkspace\\classes2\\classes2\\structstudent.cpp",
+              "RelativeDocumentMoniker": "classes2\\structstudent.cpp",
+              "ToolTip": "C:\\korea_cworkspace\\classes2\\classes2\\structstudent.cpp",
+              "RelativeToolTip": "classes2\\structstudent.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T10:15:43.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
