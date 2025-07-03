@@ -46,9 +46,9 @@
               "Title": "bankAccount.cpp",
               "DocumentMoniker": "C:\\korea_cworkspace\\classes2\\classes2\\bankAccount.cpp",
               "RelativeDocumentMoniker": "classes2\\bankAccount.cpp",
-              "ToolTip": "C:\\korea_cworkspace\\classes2\\classes2\\bankAccount.cpp*",
-              "RelativeToolTip": "classes2\\bankAccount.cpp*",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFEAAAAHAAAAAAAAAA==",
+              "ToolTip": "C:\\korea_cworkspace\\classes2\\classes2\\bankAccount.cpp",
+              "RelativeToolTip": "classes2\\bankAccount.cpp",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAHMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-26T12:00:35.621Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "classes2\\vectorEx2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-26T11:39:03.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T11:39:03.936Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "classes2\\vectorEx1.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAUwB4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-26T11:30:33.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T11:30:33.954Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "classes2\\enumMedal.cpp",
               "ViewState": "AgIAAAwAAAAAAAAAAAAUwBMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-26T11:14:46.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T11:14:46.376Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "classes2\\enumvalue.cpp",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwA0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-26T11:02:46.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T11:02:46.927Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "classes2\\structPoint.cpp",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-26T10:34:23.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T10:34:23.385Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "classes2\\structstudent.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAUwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-26T10:15:43.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T10:15:43.217Z"
             }
           ]
         }

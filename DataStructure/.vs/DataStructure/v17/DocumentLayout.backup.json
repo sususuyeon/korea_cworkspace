@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\korea_cworkspace\\DataStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC91171F-DC08-4C7F-BF12-430CF34677B0}|DataStructure\\DataStructure.vcxproj|C:\\korea_cworkspace\\DataStructure\\DataStructure\\sortEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC91171F-DC08-4C7F-BF12-430CF34677B0}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\sortEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC91171F-DC08-4C7F-BF12-430CF34677B0}|DataStructure\\DataStructure.vcxproj|C:\\korea_cworkspace\\DataStructure\\DataStructure\\sortEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC91171F-DC08-4C7F-BF12-430CF34677B0}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\sortEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC91171F-DC08-4C7F-BF12-430CF34677B0}|DataStructure\\DataStructure.vcxproj|C:\\korea_cworkspace\\DataStructure\\DataStructure\\dictionaty.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC91171F-DC08-4C7F-BF12-430CF34677B0}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\dictionaty.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC91171F-DC08-4C7F-BF12-430CF34677B0}|DataStructure\\DataStructure.vcxproj|C:\\korea_cworkspace\\DataStructure\\DataStructure\\mapEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC91171F-DC08-4C7F-BF12-430CF34677B0}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\mapEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC91171F-DC08-4C7F-BF12-430CF34677B0}|DataStructure\\DataStructure.vcxproj|C:\\korea_cworkspace\\DataStructure\\DataStructure\\vectorBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC91171F-DC08-4C7F-BF12-430CF34677B0}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\vectorBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC91171F-DC08-4C7F-BF12-430CF34677B0}|DataStructure\\DataStructure.vcxproj|C:\\korea_cworkspace\\DataStructure\\DataStructure\\vectorEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC91171F-DC08-4C7F-BF12-430CF34677B0}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\vectorEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC91171F-DC08-4C7F-BF12-430CF34677B0}|DataStructure\\DataStructure.vcxproj|C:\\korea_cworkspace\\DataStructure\\DataStructure\\templeMath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC91171F-DC08-4C7F-BF12-430CF34677B0}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\templeMath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sortEx2.cpp",
+              "DocumentMoniker": "C:\\korea_cworkspace\\DataStructure\\DataStructure\\sortEx2.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\sortEx2.cpp",
+              "ToolTip": "C:\\korea_cworkspace\\DataStructure\\DataStructure\\sortEx2.cpp",
+              "RelativeToolTip": "DataStructure\\sortEx2.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T12:43:39.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sortEx1.cpp",
+              "DocumentMoniker": "C:\\korea_cworkspace\\DataStructure\\DataStructure\\sortEx1.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\sortEx1.cpp",
+              "ToolTip": "C:\\korea_cworkspace\\DataStructure\\DataStructure\\sortEx1.cpp",
+              "RelativeToolTip": "DataStructure\\sortEx1.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T12:34:04.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dictionaty.cpp",
+              "DocumentMoniker": "C:\\korea_cworkspace\\DataStructure\\DataStructure\\dictionaty.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\dictionaty.cpp",
+              "ToolTip": "C:\\korea_cworkspace\\DataStructure\\DataStructure\\dictionaty.cpp",
+              "RelativeToolTip": "DataStructure\\dictionaty.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T12:15:44.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mapEx.cpp",
+              "DocumentMoniker": "C:\\korea_cworkspace\\DataStructure\\DataStructure\\mapEx.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\mapEx.cpp",
+              "ToolTip": "C:\\korea_cworkspace\\DataStructure\\DataStructure\\mapEx.cpp",
+              "RelativeToolTip": "DataStructure\\mapEx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T12:03:40.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vectorBook.cpp",
+              "DocumentMoniker": "C:\\korea_cworkspace\\DataStructure\\DataStructure\\vectorBook.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\vectorBook.cpp",
+              "ToolTip": "C:\\korea_cworkspace\\DataStructure\\DataStructure\\vectorBook.cpp",
+              "RelativeToolTip": "DataStructure\\vectorBook.cpp",
+              "ViewState": "AgIAADEAAAAAAAAAAAAUwDkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T11:30:40.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vectorEx1.cpp",
+              "DocumentMoniker": "C:\\korea_cworkspace\\DataStructure\\DataStructure\\vectorEx1.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\vectorEx1.cpp",
+              "ToolTip": "C:\\korea_cworkspace\\DataStructure\\DataStructure\\vectorEx1.cpp",
+              "RelativeToolTip": "DataStructure\\vectorEx1.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T11:07:18.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "templeMath.cpp",
+              "DocumentMoniker": "C:\\korea_cworkspace\\DataStructure\\DataStructure\\templeMath.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\templeMath.cpp",
+              "ToolTip": "C:\\korea_cworkspace\\DataStructure\\DataStructure\\templeMath.cpp",
+              "RelativeToolTip": "DataStructure\\templeMath.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T11:01:41.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
